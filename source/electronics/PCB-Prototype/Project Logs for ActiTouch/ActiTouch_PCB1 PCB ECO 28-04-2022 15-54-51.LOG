@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetC11_1 Pin=R13-2
+Added Pin To Net: NetName=NetC11_2 Pin=R13-2
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R29 RNCP0603FTD1K00
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR

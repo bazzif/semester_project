@@ -1,0 +1,14 @@
+Add Net: Net with name "NetC1_1" already exists
+Add Net: Net with name "NetC2_1" already exists
+Add Net: Net with name "NetR1_1" already exists
+Add Net: Net with name "NetR5_2" already exists
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component C1 EMK107B7104KAHT
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component C3 EMK107B7104KAHT
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component R1 RNCP0603FTD10R0
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component R2 RNCP0603FTD10R0
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component R3 RNCP0603FTD10K0
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component R5 RNCP0603FTD10K0
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component R6 RNCP0603FTD10R0
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component R7 RNCP0603FTD12K4
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component R8 RNCP0603FTD10K0
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component U? LTC6253ITS8#TRMPBF

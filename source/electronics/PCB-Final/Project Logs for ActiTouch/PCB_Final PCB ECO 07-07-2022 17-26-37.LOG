@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=U_VibrationMotor Member=C100
+Removed Member From Class: ClassName=U_VibrationMotor Member=R100
+Removed Member From Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=R200
+Removed Member From Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=R300
+Removed Member From Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=R400
+Removed Member From Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=R500
+Removed Member From Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=R600
+Removed Member From Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=R?
+Added Pin To Net: NetName=1V65 Pin=R13-2
+Added Member To Class: ClassName=U_VibrationMotor Member=Component C1 C0603C104K5RACTU
+Added Member To Class: ClassName=U_VibrationMotor Member=Component R1 ESR03EZPJ101
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R2 ESR03EZPJ101
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R3 ESR03EZPJ101
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R4 ESR03EZPJ101
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R5 ESR03EZPJ101
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R6 ESR03EZPJ101

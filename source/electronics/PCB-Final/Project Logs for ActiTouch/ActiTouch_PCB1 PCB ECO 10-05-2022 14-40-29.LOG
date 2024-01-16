@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=J? NewDesignator=Jtestz
+Add Net: Net with name "3V3" already exists
+Add Net: Net with name "3V3" already exists
+Added Member To Class: ClassName=ActiTouch Member=Component J? GRPB021VWVN-RC
+Added Member To Class: ClassName=ActiTouch Member=Component J? GRPB021VWVN-RC
+Added Member To Class: ClassName=ActiTouch Member=Component Jtestz M50-3630542
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR

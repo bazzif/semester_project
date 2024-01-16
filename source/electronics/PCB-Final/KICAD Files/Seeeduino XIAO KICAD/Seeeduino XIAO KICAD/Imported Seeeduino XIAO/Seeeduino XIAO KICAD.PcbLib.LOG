@@ -1,0 +1,7 @@
+Importer Log Report
+Document: C:\Users\zwing\Downloads\Seeeduino XIAO KICAD\Seeeduino XIAO KICAD
+    Section : Import Document - C:\Users\zwing\Downloads\Seeeduino XIAO KICAD\Seeeduino XIAO KICAD\Imported Seeeduino XIAO\Seeeduino XIAO KICAD.PcbLib
+        Error: Import is not implemented for: KiCadLib.PCB.PCBComponent
+        Section : Component >NAME importing.
+        EndSection
+    EndSection

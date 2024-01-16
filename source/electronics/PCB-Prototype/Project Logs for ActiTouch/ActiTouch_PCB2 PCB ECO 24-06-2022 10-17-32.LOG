@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=1.65V Pin=C13-1
+Removed Pin From Net: NetName=1.65V Pin=C14-1
+Removed Pin From Net: NetName=1.65V Pin=D11-2
+Removed Pin From Net: NetName=1.65V Pin=R12-2
+Removed Pin From Net: NetName=3V3 Pin=R14-1
+Removed Pin From Net: NetName=1.65V Pin=R14-2
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=1.65V Pin=U11-5
+Added Pin To Net: NetName=3V3 Pin=C13-1
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=D11-2
+Added Pin To Net: NetName=3V3 Pin=R12-2
+Added Pin To Net: NetName=1.65V Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=R14-2
+Added Pin To Net: NetName=1.65V Pin=R15-2
+Added Pin To Net: NetName=3V3 Pin=U11-5

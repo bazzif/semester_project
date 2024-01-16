@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Add Component: Footprint Not Found 
+Added Pin To Net: NetName=3V3 Pin=J2-3
+Add Pin To Net: Unknown Pin: Pin U-12
+Add Pin To Net: Unknown Pin: Pin U-16
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Net: Name=NetJ2_7
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR
+Add Class Member: Failed to add class member : Component U SeeeduinoXIAO

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C7 Old Footprint=FP-C0603C-CF-MFG New Footprint=FP-C0603C-CF-IPC_A
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component C6 C0603C104K5RACTU
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U1 OPA2836IDR
+Added Member To Class: ClassName=ActiTouch Member=Component U SeeeduinoXIAO

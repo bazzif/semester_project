@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=P5-1
+Removed Pin From Net: NetName=NetC8_2 Pin=P5-2
+Removed Pin From Net: NetName=NetC8_1 Pin=R22-1
+Removed Pin From Net: NetName=NetC7_1 Pin=R23-1
+Change Component Footprint: Designator=C7 Old Footprint=FP-C0603C-CF-IPC_A New Footprint=FP-C0603C-CF-MFG
+Change Component Footprint: Designator=C5 Old Footprint=FP-C0603C-CF-IPC_C New Footprint=FP-C0603C-CF-MFG
+Added Pin To Net: NetName=NetC7_1 Pin=P5-1
+Added Pin To Net: NetName=NetC8_1 Pin=P5-2
+Added Pin To Net: NetName=NetC8_2 Pin=R22-1
+Added Pin To Net: NetName=NetC7_2 Pin=R23-1

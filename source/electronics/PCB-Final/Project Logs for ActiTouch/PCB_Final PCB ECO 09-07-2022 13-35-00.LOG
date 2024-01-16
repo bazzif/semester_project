@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetC20_1 Pin=J4-1
+Removed Pin From Net: NetName=NetC21_1 Pin=J4-2
+Removed Pin From Net: NetName=1V65 Pin=R54J-2
+Removed Pin From Net: NetName=NetC50_2 Pin=R55J-1
+Removed Member From Class: ClassName=U_ActiTouch_Shield_Sheet1 Member=R54J
+Removed Member From Class: ClassName=U_ActiTouch_Shield_Sheet1 Member=R55J
+Added Pin To Net: NetName=NetC21_1 Pin=J4-1
+Added Pin To Net: NetName=NetC20_1 Pin=J4-2
+Added Pin To Net: NetName=NetC50_2 Pin=R50-2
+Added Pin To Net: NetName=NetC50_2 Pin=R51-1
+Added Pin To Net: NetName=1V65 Pin=R52-1
+Added Pin To Net: NetName=1V65 Pin=U50-1
+Added Pin To Net: NetName=1V65 Pin=U50-2

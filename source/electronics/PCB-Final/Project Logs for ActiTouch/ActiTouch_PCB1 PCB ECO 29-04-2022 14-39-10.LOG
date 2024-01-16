@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V3 Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Change Component Designator: OldDesignator=FL? NewDesignator=FL1
+Add Component: Footprint Not Found 
+Add Pin To Net: Unknown Pin: Pin U-16
+Change Net Name : Old Net Name=NetFL?_1 New Net Name=NetFL1_1
+Added Pin To Net: NetName=NetR210_1 Pin=R210-1
+Added Pin To Net: NetName=NetR210_1 Pin=U21-7
+Added Net: Name=NetR210_1
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR
+Add Class Member: Failed to add class member : Component U SeeeduinoXIAO

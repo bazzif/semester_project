@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=5V Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=3V3 Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Change Component Footprint: Designator=C12 Old Footprint=FP-C0603-030-0_03-IPC_A New Footprint=CAPC1608X90X35ML15T15
+Change Component Footprint: Designator=C14 Old Footprint=FP-C0603-030-0_03-IPC_A New Footprint=CAPC1608X90X35ML15T15
+Change Component Comment : Designator=C12 Old Comment=C0603X5R1A104K030BC New Comment=0603ZD104KAT2A
+Change Component Comment : Designator=C14 Old Comment=C0603X5R1A104K030BC New Comment=0603ZD104KAT2A
+Change Managed Component Library Link : Designator=C12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=161AB23A-8299-427B-AA31-22780F4CA198 New ItemGUID=BC09671A-9382-4583-B217-914FED6AA354 Old RevisionGUID=3009E3FA-2CB2-44E8-8EC9-1212F62FA4A3 New RevisionGUID=8DE6038B-C80C-48C4-9190-6ACEB0EA3420
+Change Managed Component Library Link : Designator=C14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=161AB23A-8299-427B-AA31-22780F4CA198 New ItemGUID=BC09671A-9382-4583-B217-914FED6AA354 Old RevisionGUID=3009E3FA-2CB2-44E8-8EC9-1212F62FA4A3 New RevisionGUID=8DE6038B-C80C-48C4-9190-6ACEB0EA3420
+Change component parameters: Designator = "C12" ("C12"); Footprint = "FP-C0603-030-0_03-IPC_A"; UniqueID = "\ILJJYIAF\ICTPMEEO" ("\ILJJYIAF\ICTPMEEO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0603ZD104KAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "FP-C0603-030-0_03-IPC_A"; UniqueID = "\ILJJYIAF\UVFIRQFQ" ("\ILJJYIAF\UVFIRQFQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0603ZD104KAT2A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=5V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=C14-2

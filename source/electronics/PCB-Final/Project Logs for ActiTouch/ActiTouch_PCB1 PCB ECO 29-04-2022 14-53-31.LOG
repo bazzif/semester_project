@@ -1,0 +1,13 @@
+Added Component: Designator=U(Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SeeeduinoXIAO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_7 Pin=U-8
+Added Pin To Net: NetName=NetJ2_6 Pin=U-9
+Added Pin To Net: NetName=NetJ2_5 Pin=U-10
+Added Pin To Net: NetName=NetJ2_4 Pin=U-11
+Added Pin To Net: NetName=3V3 Pin=U-12
+Added Pin To Net: NetName=NetJ2_2 Pin=U-13
+Added Pin To Net: NetName=NetJ2_1 Pin=U-14
+Added Pin To Net: NetName=GND Pin=U-16
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR
+Added Member To Class: ClassName=ActiTouch Member=Component U SeeeduinoXIAO

@@ -1,0 +1,37 @@
+Add Net: Net with name "3V3" already exists
+Added Pin To Net: NetName=PA02_A0_D0 Pin=J1-7
+Added Pin To Net: NetName=PA02_A0_D0 Pin=R210-1
+Added Pin To Net: NetName=PA02_A0_D0 Pin=U-1
+Added Pin To Net: NetName=PA02_A0_D0 Pin=U21-7
+Added Net: Name=PA02_A0_D0
+Added Pin To Net: NetName=PA4_A1_D1 Pin=J1-6
+Added Pin To Net: NetName=PA4_A1_D1 Pin=U-2
+Added Net: Name=PA4_A1_D1
+Added Pin To Net: NetName=PA5_A9_D9_MISO Pin=J2-5
+Added Pin To Net: NetName=PA5_A9_D9_MISO Pin=U-10
+Added Net: Name=PA5_A9_D9_MISO
+Added Pin To Net: NetName=PA6_A10_D10_MOIS Pin=J2-4
+Added Pin To Net: NetName=PA6_A10_D10_MOIS Pin=U-11
+Added Net: Name=PA6_A10_D10_MOIS
+Added Pin To Net: NetName=PA7_A8_D8_SCK Pin=J2-6
+Added Pin To Net: NetName=PA7_A8_D8_SCK Pin=U-9
+Added Net: Name=PA7_A8_D8_SCK
+Added Pin To Net: NetName=PA9_A5_D5_SCL Pin=J1-2
+Added Pin To Net: NetName=PA9_A5_D5_SCL Pin=U-6
+Added Net: Name=PA9_A5_D5_SCL
+Added Pin To Net: NetName=PA10_A2_D2 Pin=J1-5
+Added Pin To Net: NetName=PA10_A2_D2 Pin=U-3
+Added Net: Name=PA10_A2_D2
+Added Pin To Net: NetName=PA11_A3_D3 Pin=J1-4
+Added Pin To Net: NetName=PA11_A3_D3 Pin=U-4
+Added Net: Name=PA11_A3_D3
+Added Pin To Net: NetName=PAB_A4_D4_SDA Pin=J1-3
+Added Pin To Net: NetName=PAB_A4_D4_SDA Pin=U-5
+Added Net: Name=PAB_A4_D4_SDA
+Added Pin To Net: NetName=PB08_A6_D6_TX Pin=J1-1
+Added Pin To Net: NetName=PB08_A6_D6_TX Pin=U-7
+Added Net: Name=PB08_A6_D6_TX
+Added Pin To Net: NetName=PB09_A7_D7_RX Pin=J2-7
+Added Pin To Net: NetName=PB09_A7_D7_RX Pin=U-8
+Added Net: Name=PB09_A7_D7_RX
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR

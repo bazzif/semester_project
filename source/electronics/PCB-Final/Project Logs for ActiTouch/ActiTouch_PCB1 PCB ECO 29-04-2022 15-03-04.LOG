@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=3V3 Pin=J2-3
+Removed Pin From Net: NetName=3V3 Pin=U-12
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=U-13
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=5V
+Added Pin To Net: NetName=+5 Pin=U-15
+Added Net: Name=+5
+Added Pin To Net: NetName=NetLabel10 Pin=J2-3
+Added Net: Name=NetLabel10
+Added Pin To Net: NetName=NetLabel11 Pin=J2-4
+Added Net: Name=NetLabel11
+Added Pin To Net: NetName=NetLabel12 Pin=J2-5
+Added Net: Name=NetLabel12
+Added Pin To Net: NetName=NetLabel13 Pin=J2-6
+Added Net: Name=NetLabel13
+Added Pin To Net: NetName=NetLabel14 Pin=J2-7
+Added Net: Name=NetLabel14
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR

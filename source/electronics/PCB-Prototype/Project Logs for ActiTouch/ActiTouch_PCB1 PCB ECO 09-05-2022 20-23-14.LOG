@@ -1,0 +1,5 @@
+Change Component Comment : Designator=Y1 Old Comment=DSC6011JI1A-024.0000T New Comment=DSC6003MI2A-010.7000T
+Change Component Description : Designator=Y1 Old Description=MEMS OSC XO 24.0000MHZ CMOS SMD New Description=DSC6003MI2A-010.7000T
+Add Net: Net with name "3V3" already exists
+Add Net: Net with name "3V3" already exists
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR

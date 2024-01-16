@@ -1,0 +1,29 @@
+*************************************************************
+FileName = FlexPCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Board Shape
+      File : FlexPCB.GM2
+
+    Adding Layer      : Board Shape
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : FlexPCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+

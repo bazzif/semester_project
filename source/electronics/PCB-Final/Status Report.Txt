@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[FlexPCB.GTL]
+   Generated File[FlexPCB.GM2]
+   Generated File[FlexPCB.RUL]
+   Generated File[FlexPCB.EXTREP]
+   Generated File[FlexPCB.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 10:49:56 On 21/07/2022

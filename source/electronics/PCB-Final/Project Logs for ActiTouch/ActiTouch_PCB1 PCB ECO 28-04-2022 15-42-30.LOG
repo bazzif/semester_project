@@ -1,0 +1,125 @@
+Removed Pin From Net: NetName=3V7 Pin=U10-8
+Removed Pin From Net: NetName=3V7 Pin=U20-8
+Removed Pin From Net: NetName=3V7 Pin=U21-8
+Removed Member From Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=P?
+Removed Member From Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=R7
+Removed Member From Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=R8
+Removed Member From Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=U21
+Change Component Footprint: Designator=U? Old Footprint=LT-TS8-8-TSOT-23_V New Footprint=D0008A_M
+Change Component Footprint: Designator=U? Old Footprint=LT-TS8-8-TSOT-23_V New Footprint=D0008A_M
+Change Component Comment : Designator=U? Old Comment=LTC6253ITS8#TRMPBF New Comment=OPA2836IDR
+Change Component Comment : Designator=U? Old Comment=LTC6253ITS8#TRMPBF New Comment=OPA2836IDR
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=746E1185-8873-4DB9-A76D-5120B9DB51BA New ItemGUID=D15D2AA9-A9D1-479E-B32C-3C13F5147A35 Old RevisionGUID=C51971CA-D6D7-49A9-9213-ACAD1DD450A7 New RevisionGUID=84CA571A-ED0A-43BD-ABAC-DC65F1D58DC5
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=746E1185-8873-4DB9-A76D-5120B9DB51BA New ItemGUID=D15D2AA9-A9D1-479E-B32C-3C13F5147A35 Old RevisionGUID=C51971CA-D6D7-49A9-9213-ACAD1DD450A7 New RevisionGUID=84CA571A-ED0A-43BD-ABAC-DC65F1D58DC5
+Change component parameters: Designator = "U?" ("U?"); Footprint = "LT-TS8-8-TSOT-23_V"; UniqueID = "\PLTFSJKQ" ("\PLTFSJKQ")
+Change component parameters (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "@ MHz"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Acl, min stable gain(V/V)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BW @ Acl(MHz)"; Value = "205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=OPA2836&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLOS712D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diff Gain(%)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diff Phase(deg)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iib(Max)(nA)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Io(Typ)(mA)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M, 06/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "OPA2836IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub Family"; Value = "High Output Current Amplifier (>=50mA), High Speed Amplifier (>=50MHz), Low Noise Amp (<=10nV/rtHz), Low Offset Voltage Amplifier (<=500uV), Low Supply Voltage Amplifier (<=2.7V)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vio(Max)(mV)"; Value = "0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmin(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "4.6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vs(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vs(Min)(V)"; Value = "2.5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U?" ("U?"); Footprint = "LT-TS8-8-TSOT-23_V"; UniqueID = "\NXHSSMGB" ("\NXHSSMGB")
+Change component parameters (AddParameter): Name = "2nd Harmonic(dBc)"; Value = "85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "3rd Harmonic(dBc)"; Value = "105"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "@ MHz"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Acl, min stable gain(V/V)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BW @ Acl(MHz)"; Value = "205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CMRR(Min)(dB)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=OPA2836&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/msoi002j"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "SLOS712D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diff Gain(%)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diff Phase(deg)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GBW(Typ)(MHz)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iib(Max)(nA)"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Io(Typ)(mA)"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Iq per channel(Max)(mA)"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Offset Drift(Typ)(uV/C)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline, Body 4.9 x 3.9 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "D0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "4040047-3/M, 06/2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "OPA2836IDR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rail-Rail"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Settling Time (0.1%)(Typ)(ns)"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Slew Rate(Typ)(V/us)"; Value = "560"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sub Family"; Value = "High Output Current Amplifier (>=50mA), High Speed Amplifier (>=50MHz), Low Noise Amp (<=10nV/rtHz), Low Offset Voltage Amplifier (<=500uV), Low Supply Voltage Amplifier (<=2.7V)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubFamily"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "THD (Fc is 1 MHz)(Typ)(dB)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Supply Voltage(Max)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Total Supply Voltage(Min)(+5V is 5, +/-5V is 10)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vio (25C)(Max)(mV)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vio(Max)(mV)"; Value = "0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmax(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vmin(V)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vn at Flatband(Typ)(nV/rtHz)"; Value = "4.6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vs(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vs(Min)(V)"; Value = "2.5"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=3V7 New Net Name=3V3
+Added Pin To Net: NetName=3V7 Pin=U10-8
+Added Pin To Net: NetName=3V7 Pin=U20-8
+Added Pin To Net: NetName=3V7 Pin=U21-8
+Added Net: Name=3V7
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Net: Name=NetC1_2
+Add Net: Net with name "NetR25_2" already exists
+Added Class: Name=PowerSupply
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component C21 EMK107B7104KAHT
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R25 RNCP0603FTD200R
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R? AC0603FR-07330RL
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR
+Added Room: Name=PowerSupply

@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=U?-4
+Removed Pin From Net: NetName=GND Pin=U?-4
+Removed Pin From Net: NetName=3V7 Pin=U?-8
+Removed Pin From Net: NetName=3V7 Pin=U?-8
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R210
+Change Component Designator: OldDesignator=U? NewDesignator=U20
+Change Component Designator: OldDesignator=U? NewDesignator=U21
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC23_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC23_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR29_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U20-3
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=R21-1
+Added Pin To Net: NetName=NetC21_2 Pin=U20-5
+Added Net: Name=NetC21_2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=R23-2
+Added Pin To Net: NetName=NetR22_1 Pin=U20-2
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetR22_2 Pin=R25-1
+Added Pin To Net: NetName=NetR22_2 Pin=U20-1
+Added Net: Name=NetR22_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=R24-1
+Added Pin To Net: NetName=NetR23_1 Pin=U20-6
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR24_2 Pin=R25-1
+Added Pin To Net: NetName=NetR24_2 Pin=U20-7
+Added Net: Name=NetR24_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=R27-2
+Added Pin To Net: NetName=NetR25_2 Pin=U21-3
+Added Net: Name=NetR25_2
+Add Net: Net with name "NetR25_2" already exists
+Added Pin To Net: NetName=NetR26_1 Pin=R26-1
+Added Pin To Net: NetName=NetR26_1 Pin=R28-2
+Added Pin To Net: NetName=NetR26_1 Pin=U21-1
+Added Net: Name=NetR26_1
+Added Pin To Net: NetName=NetR210_1 Pin=R210-1
+Added Pin To Net: NetName=NetR210_1 Pin=U21-7
+Added Net: Name=NetR210_1
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component C20 EMK107B7104KAHT
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component C23 EMK107B7104KAHT
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R20 RNCP0603FTD10K0
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R21 RNCP0603FTD10K0
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R22 RNCP0603FTD1K00
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R23 AC0603FR-07402RL
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R24 RNCP0603FTD1K00
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R25 RNCP0603FTD200R
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R26 RNCP0603FTD1K00
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R27 RNCP0603FTD1K00
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R28 AC0603FR-07330RL
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R29 RNCP0603FTD1K00
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R210 RNCP0603FTD1K00
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component R? AC0603FR-07330RL
+Added Member To Class: ClassName=ActiTouch_Receiver_Sheet1 Member=Component U20 LTC6253ITS8#TRMPBF
+Added Member To Class: ClassName=ActiTouch_Transmitter_Sheet1 Member=Component U? LTC6253ITS8#TRMPBF

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Member From Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=C11
+Removed Member From Class: ClassName=U_PowerSupply Member=C51
+Removed Member From Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=R13
+Removed Member From Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=R14
+Removed Member From Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=R15
+Removed Member From Class: ClassName=U_PowerSupply Member=R51
+Removed Member From Class: ClassName=U_PowerSupply Member=R52
+Removed Member From Class: ClassName=U_PowerSupply Member=R53
+Removed Member From Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=U11
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component C1 EMK107B7104KAHT
+Added Member To Class: ClassName=U_PowerSupply Member=Component C11 0603ZD105KAT2A
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component R1 RNCP0603FTD10R0
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component R2 RNCP0603FTD10R0
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component R3 RNCP0603FTD10K0
+Added Member To Class: ClassName=U_PowerSupply Member=Component R11 CRCW060318K7FKEA
+Added Member To Class: ClassName=U_PowerSupply Member=Component R12 CRCW060311K5FKEA
+Added Member To Class: ClassName=U_PowerSupply Member=Component R13 RNCP0603FTD60
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U1 OPA2836IDR

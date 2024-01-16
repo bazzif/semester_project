@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R29 NewDesignator=R212
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R25 RNCP0603FTD200R
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R212 RNCP0603FTD200R
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR

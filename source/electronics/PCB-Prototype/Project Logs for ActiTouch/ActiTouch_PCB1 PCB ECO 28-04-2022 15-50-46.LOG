@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetR22_2 Pin=R25-1
+Removed Pin From Net: NetName=NetR24_2 Pin=R25-1
+Removed Pin From Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=3V3 Pin=R10-1
+Added Pin To Net: NetName=NetR22_2 Pin=R25-1
+Added Pin To Net: NetName=NetR24_2 Pin=R25-1
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=3V3 Pin=U10-8
+Added Pin To Net: NetName=3V3 Pin=U20-8
+Added Pin To Net: NetName=3V3 Pin=U21-8
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=C21-1
+Added Net: Name=NetC20_1
+Add Net: Net with name "NetR25_2" already exists
+Change Class Name : Old Net Name=ActiTouch_Receiver_Sheet1 New Net Name=U_ActiTouch_Receiver_Sheet1
+Change Class Name : Old Net Name=ActiTouch_Shield_Sheet1 New Net Name=U_ActiTouch_Shield_Sheet1
+Change Class Name : Old Net Name=ActiTouch_Transmitter_Sheet1 New Net Name=U_ActiTouch_Transmitter_Sheet1
+Change Class Name : Old Net Name=PowerSupply New Net Name=U_PowerSupply
+Added Member To Class: ClassName=U_ActiTouch_Receiver_Sheet1 Member=Component R25 RNCP0603FTD200R
+Added Member To Class: ClassName=U_ActiTouch_Transmitter_Sheet1 Member=Component U? OPA2836IDR
+Change Room Name: Old Name=ActiTouch_Transmitter_Sheet1 New Name=U_ActiTouch_Transmitter_Sheet1
+Change Room Scope: Old Scope=InComponentClass('ActiTouch_Transmitter_Sheet1') New Scope=InComponentClass('U_ActiTouch_Transmitter_Sheet1')
+Change Room Name: Old Name=PowerSupply New Name=U_PowerSupply
+Change Room Scope: Old Scope=InComponentClass('PowerSupply') New Scope=InComponentClass('U_PowerSupply')
+Added Room: Name=U_ActiTouch_Receiver_Sheet1
+Added Room: Name=U_ActiTouch_Shield_Sheet1

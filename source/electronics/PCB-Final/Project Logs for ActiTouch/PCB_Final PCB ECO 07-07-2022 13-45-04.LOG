@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=PA7_A8_D8_SCK Pin=R1-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R1-2
+Change Component Footprint: Designator=R1 Old Footprint=FP-RNCP0603-IPC_A New Footprint=FP-ESR03-MFG
+Change Component Comment : Designator=R1 Old Comment=RNCP0603FTD10K0 New Comment=ESR03EZPJ101
+Change Managed Component Library Link : Designator=R1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7D4E4CD1-4761-467C-9A37-BFF22AAEBBCB New ItemGUID=58114E52-227C-4266-B26A-76CFD99DA11A Old RevisionGUID=143CD503-C41D-473A-943D-FD90C52BA64D New RevisionGUID=397E586A-8780-468B-990E-E3AECAB33475
+Change component parameters: Designator = "R1" ("R1"); Footprint = "FP-RNCP0603-IPC_A"; UniqueID = "\YOBVHPNL\OSPEIXAF" ("\YOBVHPNL\OSPEIXAF")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "200mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "ESR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size Code"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=PA7_A8_D8_SCK Pin=R1-2

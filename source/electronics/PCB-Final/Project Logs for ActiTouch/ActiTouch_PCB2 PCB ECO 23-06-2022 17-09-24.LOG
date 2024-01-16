@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=P?-1
+Removed Pin From Net: NetName=5V Pin=P?-2
+Removed Pin From Net: NetName=GND Pin=P?-MP1
+Removed Pin From Net: NetName=GND Pin=P?-MP2
+Removed Member From Class: ClassName=U_PowerSupply Member=P?
+Added Component: Designator=P10(TECO-292173-2_V)
+Add component (AddParameter): Name = "3D Model"; Value = "292173-2.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Shrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.165"(4.19mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "MalePin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F292173%7FC3%7Fpdf%7FEnglish%7FENG_CD_292173_C3.pdf%7F292173-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C3, 10/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "CommonTermination,CTSeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "BoardGuide,SolderRetention"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "2-179694-2-ND
+-CONNRCPT2POSIDCMT2MMSGL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "A98624DKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2 mm, 1 x 2 Position, Height 5.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "292173-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.079"(2.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "292173-2StatementofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CommonTermination,CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P10-1
+Added Pin To Net: NetName=5V Pin=P10-2
+Added Pin To Net: NetName=GND Pin=P10-MP1
+Added Pin To Net: NetName=GND Pin=P10-MP2
+Added Member To Class: ClassName=U_PowerSupply Member=Component P10 292173-2
+Added Member To Class: ClassName=U_ActiTouch_Shield_Sheet1 Member=Component U50 OPA2836IDR

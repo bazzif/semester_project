@@ -1,0 +1,21 @@
+Added Component: Designator=U(Seeeduino XIAO-MOUDLE14P-2.54-21X17.8MM)
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SeeeduinoXIAO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA02_A0_D0 Pin=U-1
+Added Pin To Net: NetName=PA4_A1_D1 Pin=U-2
+Added Pin To Net: NetName=PA10_A2_D2 Pin=U-3
+Added Pin To Net: NetName=PA11_A3_D3 Pin=U-4
+Added Pin To Net: NetName=PAB_A4_D4_SDA Pin=U-5
+Added Pin To Net: NetName=PA9_A5_D5_SCL Pin=U-6
+Added Pin To Net: NetName=PB08_A6_D6_TX Pin=U-7
+Added Pin To Net: NetName=PB09_A7_D7_RX Pin=U-8
+Added Pin To Net: NetName=PA7_A8_D8_SCK Pin=U-9
+Added Pin To Net: NetName=PA5_A9_D9_MISO Pin=U-10
+Added Pin To Net: NetName=PA6_A10_D10_MOIS Pin=U-11
+Added Pin To Net: NetName=3V3 Pin=U-12
+Added Pin To Net: NetName=GND Pin=U-13
+Added Pin To Net: NetName=5V Pin=U-14
+Added Pin To Net: NetName=5V Pin=U-15
+Added Pin To Net: NetName=GND Pin=U-16
+Added Member To Class: ClassName=U_ActiTouch_Shield_Sheet1 Member=Component R15 ESR03EZPJ101
+Added Member To Class: ClassName=ActiTouch Member=Component U SeeeduinoXIAO

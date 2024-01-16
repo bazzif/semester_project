@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=J2-1
+Change Net Name : Old Net Name=5V New Net Name=Vcc
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Net: Name=5V
+Added Member To Class: ClassName=U_PowerSupply Member=Component C12 C0603C104K5RACTU
+Added Member To Class: ClassName=U_PowerSupply Member=Component C14 C0603C104K5RACTU
